@@ -1,2 +1,4 @@
 #!/bin/bash
-Alx
+cat > school
+#!/bin/bash
+school
